@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-20T12:26:58.793Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="nn-w9WVRBDpUmCe1C5Vr" version="20.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-20T12:27:11.767Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="fAgdPYhE0sGO8Na6BCtD" version="20.1.3" type="github">
   <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
     <mxGraphModel dx="1673" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -122,9 +122,6 @@
         </mxCell>
         <mxCell id="ucbyhV33MGWC6zu0jV7y-50" value="Технические &lt;br&gt;специалисты" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.users;labelBackgroundColor=none;fontSize=14;fillColor=#E6FFCC;" vertex="1" parent="1">
           <mxGeometry x="240" y="497.5" width="64.5" height="55" as="geometry" />
-        </mxCell>
-        <mxCell id="ucbyhV33MGWC6zu0jV7y-51" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.worxmail;fillColor=#112356;gradientColor=#63AFC6;gradientDirection=south;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="100" y="570" width="38" height="38" as="geometry" />
         </mxCell>
         <mxCell id="ucbyhV33MGWC6zu0jV7y-52" value="" style="endArrow=classic;html=1;rounded=1;fontSize=14;strokeColor=#000312;strokeWidth=1;jumpStyle=arc;" edge="1" parent="1" source="ucbyhV33MGWC6zu0jV7y-39" target="ucbyhV33MGWC6zu0jV7y-50">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
